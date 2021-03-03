@@ -1,0 +1,21 @@
+footer{
+    background-color: grey;
+}
+
+.container{
+    color: ivory;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    color: ivory;
+}
+
+a:hover{
+    color: ivory;
+    text-decoration: none;
+}
+

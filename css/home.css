@@ -1,0 +1,32 @@
+.container .imgBox{
+    background:url('../images/home_shoe.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+
+.container .brands{
+    margin-top: 100px;
+    text-align: center;
+    color: black;
+}
+
+.container .category-container{
+    color: black;
+    text-align: center;
+}
+
+.img-with-text {
+    text-align: justify;
+    
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
+
+.img-with-text label{
+    margin-left:  150px;
+}
